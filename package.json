@@ -1,0 +1,14 @@
+{
+  "name": "ci_cd",
+  "version": "1.0.0",
+  "description": "try github actions",
+  "author": "Anatoli Poita <kolesatost@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.7",
+    "jest": "^29.7.0"
+  }
+}
